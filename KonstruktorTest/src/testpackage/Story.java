@@ -12,7 +12,9 @@ public class Story {
 				System.out.println("Argument " + i + ": "+ s);
 				i++;
 			}
-		}		
+		}
+		
+		System.out.println("Swing, AWT, WindowBuilder, Processing");
 		
 		
 		Animal par = new Parrot();
