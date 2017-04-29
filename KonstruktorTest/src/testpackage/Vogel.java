@@ -9,6 +9,6 @@ public class Vogel extends Animal {
 	public Vogel (String str){
 		System.out.println("In Vogel mit String");
 	}
-	//tes4
+	//tes4 
 
 }

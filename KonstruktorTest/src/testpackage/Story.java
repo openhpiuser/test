@@ -1,8 +1,18 @@
 package testpackage;
 
+import java.util.Arrays;
+
 public class Story {
 
 	public static void main(String[] args){
+		
+		if(args.length > 0){
+			int i = 0;
+			for (String s : Arrays.asList(args)){
+				System.out.println("Argument " + i + ": "+ s);
+				i++;
+			}
+		}		
 		
 		Animal par = new Parrot();
 		System.out.println("test1");
