@@ -14,6 +14,7 @@ public class Story {
 			}
 		}		
 		
+		
 		Animal par = new Parrot();
 		System.out.println("test1");
 		System.out.println("test2");
