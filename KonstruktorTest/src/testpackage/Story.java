@@ -24,6 +24,7 @@ public class Story {
 		System.out.println("test4");
 		
 		System.out.println("WohnzimmerPC_01");  
-		System.out.println("Notebook_01"); 
+		System.out.println("Notebook_01");
+		System.out.println("WohnzimmerPC_02"); 
 	}
 }
